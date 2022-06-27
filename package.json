@@ -1,0 +1,15 @@
+{
+  "name": "art-widget",
+  "version": "1.0.0",
+  "description": "little art widget",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "art-widget"
+  },
+  "author": "Jesse T. Hickey",
+  "license": "ISC"
+}
