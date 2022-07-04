@@ -7,6 +7,10 @@ const resetMenu = function () {
   menuList.classList.add('hidden');
 };
 
+window.addEventListener('load', function(){
+  document.body.classList.remove('preload')
+})
+
 document.body.addEventListener('click', function (e) {
   if (!menuBtn.classList.contains('active')) {
     return;
